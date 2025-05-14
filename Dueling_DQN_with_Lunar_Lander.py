@@ -190,7 +190,7 @@ def train( episodes = 400 ) :
             print(f"New best model saved with average reward: {best_avg_reward:.2f}")
 
         # early stoopping
-        if avg_reward > 260 and len(rewards_history) >= 100:
+        if avg_reward > 250 and len(rewards_history) >= 100:
             print(f"Environment is solved in {episode+1} episodes! Average Reward : {avg_reward:.5f}")
             break
 
