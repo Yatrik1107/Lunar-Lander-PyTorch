@@ -1,6 +1,16 @@
 # Lunar Lander with Dueling Double DQN
 
-![Lunar Lander Environment](https://gymnasium.farama.org/_images/lunar_lander.gif)
+## Training and Evaluation
+<table>
+  <tr>
+    <td><b>Training</b></td>
+    <td><b>Evaluation</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/77062d73-7fc4-4289-b670-d622d0593993" alt="Training" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/69a35ec6-aa48-41ad-976f-b54b6d65effb" alt="Evaluation" width="400"/></td>
+  </tr>
+</table>
 
 ## Project Overview
 
